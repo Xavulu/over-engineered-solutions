@@ -1,2 +1,2 @@
 # over-engineered-solutions
-Just some silly solutionsneered to simple problems
+Just some silly over-engineered solutions to simple problems
